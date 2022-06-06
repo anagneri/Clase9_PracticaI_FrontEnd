@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Roboto:wght@100;300&display=swap');
+/*Estilo del Header*/
+.headerNegro { background-color:#222222;
+                color:#F3F3F3;
+                text-decoration: none;
+                font-size: 10px;
+}
+.headerNaranja { background-color:#F0A83E;
+}
+.headerBlanco {color:#FFFFFF;
+                text-decoration: none;
+}
+
+
+
+
+/*Estilo del Body*/
+body {font-family: 'Roboto', sans-serif;
+}
+
+
+
+/*Estilo del Main*/
+
+.h4Marron {color: #3C2313;
+}
+.h4Blanco {color: #FFFFFF;
+            background-color: #F0A83E;
+}
+.section1 {text-align: center;
+}
+.section2 {text-align: center;
+
+}
+.imagenPortada{position: relative;
+                top: -80px;
+                width: 1246px;
+                z-index: 10;
+}
+.div1{color: #3C2313;
+
+}
+.div2{position:relative;
+    z-index: 20;
+}
+.div3{position:relative;
+    z-index: 30;
+}
+.div4{position:relative;
+    z-index: 10;
+}
+p {color: #F0A83E;
+}
+h5 {color: #3C2313;
+}
+h1 {color: #3C2313;
+    font-weight: 700;
+}
+h4 {color:#666666;
+}
+
+
+
+/*Estilo del Footer*/
+footer {background-color: #3C2313;
+    
+}
+.footerBlanco {color:#FFFFFF;
+}
+.footerAbajo {background-color: #222222;
+            color:#FFFFFF;
+            text-align: center;
+            
+}
+.footerP { color: #8A8787;
+            
+}
+
